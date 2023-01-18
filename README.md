@@ -7,7 +7,7 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 >Rute Salomé Pires de Castro PG45475
 
 **Dataset used in this project : 
-<sub> " Novozymes Enzyme Stability Prediction ", a dataset to help identify the thermostable mutations in enzymes. Available at https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction .
+" Novozymes Enzyme Stability Prediction ", a dataset to help identify the thermostable mutations in enzymes. Available at https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction .
 
 ### Files
 
