@@ -16,3 +16,8 @@ Repository of the Intelligent Systems for Bioinformatics work - Master's Degree 
 - The .ipynb file is the notebook in which we worked on.
 - The .csv files are the datasets used in this analysis.
 
+### Packages
+
+We use the propythia package which can be seen here: https://github.com/jcapels/propythia/tree/fix_dependencies
+
+
