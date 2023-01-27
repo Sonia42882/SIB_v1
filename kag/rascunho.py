@@ -9,3 +9,4 @@ A alterar:
     - não e preciso normalizar (podemos fazer scale e apenas no X), 
     - machine learning com regressão (tm variável continua)
 '''
+
