@@ -1,10 +1,10 @@
-# SIB_Trabalho
+# SIB_v1
 Repository of the Intelligent Systems for Bioinformatics work - Master's Degree in Bioinformatics - University of Minho (2022/2023)
 ## Group
-* Sónia Isabel Dias de Carvalho PG42882
-* Angelina Madalena Freitas de Campos Ribeiro Eiras PG42861
-* Carina Filipa Araújo Gonçalves PG45466
-* Rute Salomé Pires de Castro PG45475
+* Angelina Eiras PG42861
+* Carina Gonçalves PG45466
+* Rute Castro PG45475
+* Sónia Carvalho PG42882
 
 **Dataset used in this project :**
 " Novozymes Enzyme Stability Prediction ", a dataset to help identify the thermostable mutations in enzymes. Available at https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction .
@@ -15,9 +15,4 @@ Repository of the Intelligent Systems for Bioinformatics work - Master's Degree 
 ### Files
 - The .ipynb file is the notebook in which we worked on.
 - The .csv files are the datasets used in this analysis.
-
-### Packages
-
-We use the propythia package which can be seen here: https://github.com/jcapels/propythia/tree/fix_dependencies
-
 
